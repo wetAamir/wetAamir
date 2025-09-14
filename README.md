@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
-<h3 align="center">A AI Newbie</h3>
+<h3 align="center">A Newbie programmer</h3>
 
 - 🌱 I’m currently learning **AI courses**
 
